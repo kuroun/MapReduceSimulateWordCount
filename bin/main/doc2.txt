@@ -1,0 +1,5 @@
+mat pat
+sat mat
+cat rat
+pat mat
+k 
